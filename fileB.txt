@@ -1,2 +1,2 @@
-Contenido Archivo B
+Contenido Archivo B Feature
 Primer cambio a archivo B
