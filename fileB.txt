@@ -1,1 +1,2 @@
 Contenido Archivo B
+Primer cambio a archivo B
